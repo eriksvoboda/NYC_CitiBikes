@@ -6,3 +6,8 @@ The purpose of this project is to use the bike sharing data to create multiple c
 
 ## Results
 
+Using the CitiBike data we can visualize the data in mulitple manners as seen below. These charts provide unique insight that will help with our proposal. 
+
+### User Checkout Times
+
+![](/images/user_checkout_times.png)
