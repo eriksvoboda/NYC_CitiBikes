@@ -22,9 +22,13 @@ Trip duration broken out by gender.
 
 ### Trips by Gender
 
+Trips taken by hour broken out by gender.
+
 ![](/Images/trips_by_gender_weekday.png)
 
 ### Trips by Day of the Week by Hour
+
+Total trips taken broken out by hour by day.
 
 ![](/Images/trips_per_hour.png)
 
