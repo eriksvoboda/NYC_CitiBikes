@@ -32,18 +32,20 @@ Total trips taken broken out by hour by day.
 
 ![](/Images/trips_per_hour.png)
 
-### Trips by Gender per Weekday
-
-![](/Images/trips_by_gender_weekday.png)
-
 ### Consumer vs Subscriber Usage
+
+Usage by day broken out by Customer or Subscriber.
 
 ![](/Images/usertypes.png)
 
 ### Major Start Stations (With over 5k users)
 
+Showing the major start stations, being defined as stations with over 5k users.
+
 ![](/Images/maor_start_stations.png)
 
 ### Major End Stations (With over 5k users)
+
+Showing the major end stations, being defined as stations with over 5k users.
 
 ![](/Images/major_end_stations.png)
