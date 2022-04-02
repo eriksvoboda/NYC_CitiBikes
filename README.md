@@ -10,9 +10,13 @@ Using the CitiBike data we can visualize the data in mulitple manners as seen be
 
 ### User Checkout Times
 
+The number of bikes checked out along with the mintues of the trip duration.
+
 ![](/Images/user_checkout_times.png)
 
 ### Gender Checkout Times
+
+Trip duration broken out by gender.
 
 ![](/Images/checkout_times_by_gender.png)
 
@@ -30,7 +34,7 @@ Using the CitiBike data we can visualize the data in mulitple manners as seen be
 
 ### Consumer vs Subscriber Usage
 
-![](/Images/usertype.png)
+![](/Images/usertypes.png)
 
 ### Major Start Stations (With over 5k users)
 
