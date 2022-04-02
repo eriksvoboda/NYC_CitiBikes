@@ -10,4 +10,4 @@ Using the CitiBike data we can visualize the data in mulitple manners as seen be
 
 ### User Checkout Times
 
-![](/images/user_checkout_times.png)
+![](images/user_checkout_times.png)
